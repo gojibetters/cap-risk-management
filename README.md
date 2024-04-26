@@ -28,6 +28,10 @@ Back to the root folder.
 
 Access: `http://localhost:4004`
 
+### Authorization
+
+Use the credentials at package.json root folder.
+
 ## Folder Structure 
 
 It contains these folders and files, following our recommended project layout:
